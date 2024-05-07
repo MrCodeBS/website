@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://my-it-journey.ch/sitemap.xml
